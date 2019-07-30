@@ -1,10 +1,11 @@
-﻿class Program
+﻿using System;
+
+class Program
 {
     static void Main()
     {
 
-        ///Testing
-        ///LOL
+        System.Console.WriteLine("Hello world");
 
     }
 }
