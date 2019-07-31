@@ -1,11 +1,13 @@
-﻿using System;
+﻿using static System.Console;
 
 class Program
 {
     static void Main()
     {
 
-        System.Console.WriteLine("Hello world");
+        WriteLine("Hello world");
+        Beep();
+        Clear();
 
     }
 }
