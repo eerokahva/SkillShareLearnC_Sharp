@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29123.88
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson2FirstProgram", "Lesson2FirstProgram\Lesson2FirstProgram.csproj", "{5D3FB2DE-91AC-471A-A108-967CD43DC417}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkillShareLessonTesting", "Lesson2FirstProgram\SkillShareLessonTesting.csproj", "{5D3FB2DE-91AC-471A-A108-967CD43DC417}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
