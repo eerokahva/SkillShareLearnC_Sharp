@@ -4,11 +4,11 @@ class Program
 {
     static void Main()
     {
+        string name = "Bobo";
+        decimal price = 4.50M;
+        double height = 15.1;
+        bool hasUmbrella = true;
 
-        int lineNumber = 6;
-        WriteLine($"Line number is {lineNumber}");
-        lineNumber = 8;
-        WriteLine($"Line number is {lineNumber}");
 
     }
 }
